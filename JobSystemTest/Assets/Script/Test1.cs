@@ -15,7 +15,7 @@ public class Test1 : MonoBehaviour
  //        public CustomA(int a,float b)
  //        {
  //            this.a = a;
- //            this.b = b;
+ //            this.b = b;  
  //        }
  //    }
 
